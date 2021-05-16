@@ -8,8 +8,6 @@ p{
 
 input{
     display: block;
-
-
 }
 
 .elementos-en-linea{
@@ -17,8 +15,9 @@ input{
 }
 
 h4{
-    display: inline-block;
+    display: none;
 }
+
 h5{
     display: inline
 }
